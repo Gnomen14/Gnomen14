@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Gnomen14.
+- 👀 I’m interested in frontend web dev and creating dope websites.
+- 🌱 I’m currently learning HTML and CSS.
+- 📫 Email: soderlund.bror@gmail.com
